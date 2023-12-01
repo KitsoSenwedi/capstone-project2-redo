@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    margin: 15px;
+}
+
+section {
+    background-color: #176B87;
+    padding: 20px;
+    margin: 15px 0;
+    color: #EEEEEE;
+}
+
+header{
+    background-color:#053B50;
+    padding: 100px;
+}
+
+footer{
+    background-color:#053B50;
+    color: #EEEEEE;
+    padding: 100px;
+}
